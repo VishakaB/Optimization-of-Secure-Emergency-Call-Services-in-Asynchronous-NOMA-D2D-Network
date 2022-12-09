@@ -3,8 +3,7 @@ Accepted to : 2nd International Research Conference, 29-30 October 2022, SLTC Re
 
 Find Paper at: http://repo.sltc.ac.lk/bitstream/handle/1/271/33%20Vishaka%20Basnayake%20et%20al%20IRC2022%20_%20SLTC_%20Research%20University_Proceedings.pdf?sequence=1&isAllowed=y
 
-This paper investigates the issue of improving secrecy capacity of device-to-device (D2D) communications in dis-
-aster scenarios under the presence of jammers in close proximity.
+This paper investigates the issue of improving secrecy capacity of device-to-device (D2D) communications in disaster scenarios under the presence of jammers in close proximity.
 Furthermore, an asynchronous-non orthogonal multiple access
 (A-NOMA) assisted transmission scheme is considered due to
 the resource limitations and the asynchrony in signal receptions
