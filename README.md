@@ -11,3 +11,5 @@ is proposed to select the optimal data which enhances the sum
 secrecy capacity of the transmissions. The results show that the
 proposed optimized scheme outperforms the conventional secrecy
 capacity.
+
+![irc](https://user-images.githubusercontent.com/42689768/206684901-0c236fd8-368c-415d-b145-237314cd42ea.png)
