@@ -1,4 +1,7 @@
 # Optimization-of-Secure-Emergency-Call-Services-in-Asynchronous-NOMA-D2D-Network
+Accepted to : 2nd International Research Conference, 29-30 October 2022, SLTC Research University Sri Lanka 
+
+Find Paper at: http://repo.sltc.ac.lk/bitstream/handle/1/271/33%20Vishaka%20Basnayake%20et%20al%20IRC2022%20_%20SLTC_%20Research%20University_Proceedings.pdf?sequence=1&isAllowed=y
 
 This paper investigates the issue of improving se-
 crecy capacity of device-to-device (D2D) communications in dis-
